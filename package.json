@@ -1,0 +1,41 @@
+{
+  "name": "testing project",
+  "version": "1.0.0",
+  "description": "Starter package for HTML, jQuery, SaSS projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Waterman",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.3.1",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9",
+    "gulp-wrap": "^0.13.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "handlebars": "^4.0.5",
+    "jquery": "^3.1.0",
+    "uuid": "^3.0.1"
+  }
+}

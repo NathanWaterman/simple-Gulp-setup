@@ -1,0 +1,5 @@
+npm install
+
+gulp (to launch  browser sync and watch)
+
+gulp build (to build with compressed js and css)
